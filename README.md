@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🤔 Message me if you need hands on your project or any coding problems in general
 
-- 🔭 I’m currently working on Open Source tools
+- 🔭 I’m currently working on open source tools
 
 
 
