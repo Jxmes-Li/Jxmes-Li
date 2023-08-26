@@ -1,4 +1,5 @@
-### Hi there 👋
+#### Hi there 👋
+
 
 <!--
 **Jxmes-Li/Jxmes-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💬 Contact Me:
+## 💫 About:
+
+- 📖 Experienced in finance, found my love for engineering
+
+- 🏆 Love chess, lifting, and video games
+
+- 🤔 Message me if you need hands on your project or any coding problems in general
+
+- 🔭 I’m currently working on Open Source tools
+
+
+
+## 💬 Contact Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesli0226/) 
 
