@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 You can reach me at [jamesli0226@gmail.com](jamesli0226@gmail.com).
+📫 You can reach me at [jamesli0226@gmail.com](mailto:jamesli0226@gmail.com).
