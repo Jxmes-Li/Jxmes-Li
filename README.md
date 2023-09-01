@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesli0226/) 
 
-📫 Feel free to message me on linkedin, or reach out to me at [jamesli0226@gmail.com](mailto:jamesli0226@gmail.com).
+📫 Feel free to message me on linkedin, or reach out to me at [jamesli0226@gmail.com](mailto:jamesli0226@gmail.com)!
