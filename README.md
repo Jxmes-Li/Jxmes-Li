@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 ## 💫 About:
 
 - 📖 Experienced in finance, found my love for engineering
