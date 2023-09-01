@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 💫 About:
+## 💫 About Me:
 
 - 📖 Experienced in finance, found my love for engineering
 
