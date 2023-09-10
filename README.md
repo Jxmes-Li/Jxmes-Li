@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 - 🐈 I love cats
 
 
-
 ## 💬 Contact Me:
 
 📫 Feel free to message me on linkedin, or reach out to me at [jamesli0226@gmail.com](mailto:jamesli0226@gmail.com)!
