@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 💫 About Me:
 
-- 📖 Experienced in finance, found my love for engineering
+- 📖 Passionate engineer with experience in finance
 
 - 🏆 Love chess, lifting, and video games
 
