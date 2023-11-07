@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-
 ## 💫 About Me:
 
 - 📖 Passionate engineer with experience in finance
