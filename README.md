@@ -14,18 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-## 💫 About Me:
-
-- 📖 Passionate engineer with experience in finance
-
-- 🏆 Love chess, lifting, and video games
-
-- 🤔 Message me if you need hands on your project or any coding problems in general
-
-- 🔭 I’m currently working on open source tools
-
-- 🐈 I love cats
-
+## 💫 Currently working on open source tools
 
 ## 💬 Contact Me:
 
