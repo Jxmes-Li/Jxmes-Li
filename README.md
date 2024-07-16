@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-## 💫 Currently working on open source tools
-
 ## 💬 Contact Me:
 
 📫 Feel free to message me on linkedin, or reach out to me at [jamesli0226@gmail.com](mailto:jamesli0226@gmail.com).
